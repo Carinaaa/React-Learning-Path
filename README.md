@@ -4,7 +4,7 @@
 
 What I have learned:
 
-https://favicon.io/emoji-favicons/beating-heart
+Basics from JavaScript and React
 
 Coded together with: https://www.udemy.com/course/modern-react-from-the-beginning
 
@@ -16,6 +16,8 @@ What I have learned:
 npm i tailwindcss @tailwindcss/vite
 npm i react-icons --save
 ```
+
+https://react-icons.github.io/react-icons/icons/tfi/
 
 Coded together with: https://www.udemy.com/course/modern-react-from-the-beginning
 
