@@ -1,0 +1,25 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  background-color: beige;
+}
+
+.grid-outputs {
+  display: grid;
+  place-items: center; /* Centers both horizontally & vertically */
+  height: 20vh;
+}
+
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.grid-inputs {
+  display: grid;
+  place-items: center;
+  grid-auto-flow: column;
+  height: 20vh;
+}
+

@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+
+.grid-btn
+{
+  display: grid;
+  grid-auto-flow: column;
+  margin-inline-start: 20%;
+  margin-inline-end: 20%;
+}
+
+
+
